@@ -1,0 +1,40 @@
+{
+  "patients": [
+    {
+      "username": "Vishnu",
+      "password": "Vishnu_69",
+      "email": "vishnu2632004@gmail.com",
+      "dob": "2004-03-26",
+      "gender": "Male",
+      "confirmPassword": "Vishnu_69",
+      "id": 1
+    },
+    {
+      "username": "Yashwanth",
+      "password": "yashwanth",
+      "email": "yashsaravan@gmail.com",
+      "dob": "2004-07-01",
+      "gender": "Male",
+      "confirmPassword": "yashwanth",
+      "id": 2
+    },
+    {
+      "username": "Sunil",
+      "password": "Sunil",
+      "email": "Sunil@gmail.com",
+      "dob": "2004-09-09",
+      "gender": "Male",
+      "confirmPassword": "Sunil",
+      "id": 3
+    },
+    {
+      "username": "Vinayak",
+      "password": "12345",
+      "email": "V@gmail.com",
+      "dob": "2023-11-22",
+      "gender": "Male",
+      "confirmPassword": "12345",
+      "id": 4
+    }
+  ]
+}
